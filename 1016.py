@@ -94,7 +94,6 @@ if chooseclass == '210' :
 # 313
 
 if chooseclass == '313' :
-#    prob_hw = np.array([(55/100), (67/100), (89/100), (48/100), (70.5/100), (58.5/100), (84.5/100), (63/100), (88/100), (67/100)])
 
     Prob_HW_List = []
     Prob_Midterm_List = []
